@@ -29,6 +29,7 @@ Landing page
 <img src="/doc/user-landing-page-mockup.png" width="400" height="250">
 
 Signin page
+
 <img src="/doc/login-page-mockup.png" width="400" height="250">
 
 Browsing page
