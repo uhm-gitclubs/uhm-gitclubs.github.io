@@ -23,4 +23,13 @@ The system should provide:
 * Page where user can browse clubs by interest areas
 
 ## Mockup pages
-![]
+
+Landing page
+<img src="/doc/user-landing-page-mockup.png">
+
+Signin page
+
+Browsing page
+<img src="/doc/user-browse-page-mockup.png">
+
+Edit club page
