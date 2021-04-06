@@ -25,11 +25,16 @@ The system should provide:
 ## Mockup pages
 
 Landing page
+
 <img src="/doc/user-landing-page-mockup.png" width="400" height="250">
 
 Signin page
+<img src="/doc/login-page-mockup.png" width="400" height="250">
 
 Browsing page
+
 <img src="/doc/user-browse-page-mockup.png" width="400" height="250">
 
 Edit club page
+
+<img src="/doc/admin-club-edit-page-mockup.png" width="400" height="250">
