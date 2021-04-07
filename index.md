@@ -1,9 +1,9 @@
 ## Table of contents
 
 * [Goals](#goals)
+* [Team Members](#team-members)
 * [System](#system)
-* [Mockup pages](#mockup-pages)
-
+* [Mockup Pages](#mockup-pages)
 
 ## Goals
 Our goals for UHM GitClubs are:
@@ -11,6 +11,11 @@ Our goals for UHM GitClubs are:
 * Provide a centralized directory for UH Manoa student clubs.
 * Allow students to log in and browse the directory for student clubs.
 * Allow club admins to edit data for their club.
+
+## Team Members
+The people collaborating to create this project are:
+
+* [Cris Javier](https://crisjavier.github.io)
 
 ## System
 The system should provide:
@@ -22,7 +27,7 @@ The system should provide:
 * Super admins where they can grant club admin to users and delete content
 * Page where user can browse clubs by interest areas
 
-## Mockup pages
+## Mockup Pages
 
 Landing page
 
