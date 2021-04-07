@@ -16,6 +16,10 @@ Our goals for UHM GitClubs are:
 The people collaborating to create this project are:
 
 * [Cris Javier](https://crisjavier.github.io)
+* [Alvin Edrada](https://alvinedrada.github.io)
+* [Mujtaba Quadri](https://mujtaba-a-quadri.github.io)
+* [Yong U Cho](https://yongu2000.github.io)
+* [Leeden Raquel](https://leedenkraquel.github.io)
 
 ## System
 The system should provide:
