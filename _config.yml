@@ -1,3 +1,6 @@
 title: UH Manoa GitClubs
-description: Club Browsing Made Easy
+description: Club Browsing Made Easy for the UH Community
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  organization_url: https://github.com/uhm-gitclubs/uhm-gitclubs

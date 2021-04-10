@@ -1,11 +1,16 @@
 ## Table of contents
 
+* [Organization](#organization)
 * [Goals](#goals)
 * [Deployment](#deployment)
 * [System](#system)
 * [State Of Project](#state-of-project)
-* [Milestones] (#milestones)
+* [Development History](#development-history)
 * [Team Members](#team-members)
+
+## Organization
+
+To see a link to UHM GitClubs organzation and all its repositories, please click [UHM GitClubs](https://github.com/uhm-gitclubs)
 
 ## Goals
 Our goals for UHM GitClubs are:
@@ -46,8 +51,8 @@ Edit club page
 
 <img src="/doc/admin-club-edit-page-mockup.png" width="400" height="250">
 
-## Milestones
-Tracking our progress using Milestones:
+## Development History
+We are tracking our progress using Milestones:
 
 * [Milestone 1](https://github.com/uhm-gitclubs/uhm-gitclubs/projects/1)
 * [Milestone 2](https://github.com/uhm-gitclubs/uhm-gitclubs/projects/3)
