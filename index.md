@@ -1,9 +1,11 @@
 ## Table of contents
 
 * [Goals](#goals)
-* [Team Members](#team-members)
+* [Deployment](#deployment)
 * [System](#system)
-* [Mockup Pages](#mockup-pages)
+* [State Of Project](#state-of-project)
+* [Milestones] (#milestones)
+* [Team Members](#team-members)
 
 ## Goals
 Our goals for UHM GitClubs are:
@@ -12,26 +14,21 @@ Our goals for UHM GitClubs are:
 * Allow students to log in and browse the directory for student clubs.
 * Allow club admins to edit data for their club.
 
-## Team Members
-The people collaborating to create this project are:
+## Deployment
 
-* [Cris Javier](https://crisjavier.github.io)
-* [Alvin Edrada](https://alvinedrada.github.io)
-* [Mujtaba Quadri](https://mujtaba-a-quadri.github.io)
-* [Yong U Cho](https://yongu2000.github.io)
-* [Leeden Raquel](https://leedenkraquel.github.io)
+Once website is deployed, a link will be added here.
 
 ## System
 The system should provide:
 
 * A landing page
-* User can log in using UH.
+* User can log in
 * User profile with interest areas
 * Page where club admins can edit their clubs
 * Super admins where they can grant club admin to users and delete content
-* Page where user can browse clubs by interest areas
+* Page where anyone can browse clubs by interest areas
 
-## Mockup Pages
+## State Of Project
 
 Landing page
 
@@ -48,3 +45,30 @@ Browsing page
 Edit club page
 
 <img src="/doc/admin-club-edit-page-mockup.png" width="400" height="250">
+
+## Milestones
+Tracking our progress using Milestones:
+
+* [Milestone 1](https://github.com/uhm-gitclubs/uhm-gitclubs/projects/1)
+* [Milestone 2](https://github.com/uhm-gitclubs/uhm-gitclubs/projects/3)
+
+### Milestone 1: Mockup and Deployment
+
+* Implemented landing page
+* Created mockup pages
+* Deployed to Digital Ocean
+
+### Milestone 2
+
+Issues expected to be addressed:
+* Issue 1
+* Issue 2
+
+## Team Members
+The people collaborating to create this project are:
+
+* [Yong U Cho](https://yongu2000.github.io)
+* [Alvin Edrada](https://alvinedrada.github.io)
+* [Cris Javier](https://crisjavier.github.io)
+* [Mujtaba Quadri](https://mujtaba-a-quadri.github.io)
+* [Leeden Raquel](https://leedenkraquel.github.io)
