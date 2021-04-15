@@ -35,27 +35,27 @@ The system should provide:
 
 ## State Of Project
 
-Landing page
+### Landing page
 
 <img src="/doc/landingpage.jpg">
 
-Browsing page
+### Browsing page
 
 <img src="/doc/browseclubs.PNG">
 
-Signin page
+### Signin page
 
 <img src="/doc/signin.PNG">
 
-Manage clubs (admin)
+### Manage clubs (admin)
 
 <img src="/doc/manageclubsadmin.PNG">
 
-My clubs (regular user)
+### My clubs (regular user)
 
 <img src="/doc/myclubs.PNG">
 
-My clubs (club moderator)
+### My clubs (club moderator)
 
 <img src="/doc/myclubsmoderator.PNG">
 
