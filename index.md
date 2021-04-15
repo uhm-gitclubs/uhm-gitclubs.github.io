@@ -21,7 +21,7 @@ Our goals for UHM GitClubs are:
 
 ## Deployment
 
-Once website is deployed, a link will be added here.
+For a link to the deployment of UHM GitClubs, please click [here](http://143.198.50.76/#/)
 
 ## System
 The system should provide:
@@ -29,27 +29,35 @@ The system should provide:
 * A landing page
 * User can log in
 * User profile with interest areas
-* Page where club admins can edit their clubs
-* Super admins where they can grant club admin to users and delete content
+* Page where club moderators can edit their clubs
+* Site admins where they can grant club admin to users and delete content
 * Page where anyone can browse clubs by interest areas
 
 ## State Of Project
 
 Landing page
 
-<img src="/doc/user-landing-page-mockup.png" width="400" height="250">
-
-Signin page
-
-<img src="/doc/login-page-mockup.png" width="400" height="250">
+<img src="/doc/landingpage.jpg">
 
 Browsing page
 
-<img src="/doc/user-browse-page-mockup.png" width="400" height="250">
+<img src="/doc/browseclubs.PNG">
 
-Edit club page
+Signin page
 
-<img src="/doc/admin-club-edit-page-mockup.png" width="400" height="250">
+<img src="/doc/signin.PNG">
+
+Manage clubs (admin)
+
+<img src="/doc/manageclubsadmin.PNG">
+
+My clubs (regular user)
+
+<img src="/doc/myclubs.PNG">
+
+My clubs (club moderator)
+
+<img src="/doc/myclubsmoderator.PNG">
 
 ## Development History
 We are tracking our progress using Milestones:
@@ -66,8 +74,11 @@ We are tracking our progress using Milestones:
 ### Milestone 2
 
 Issues expected to be addressed:
-* Issue 1
-* Issue 2
+* Publications
+* Adding Schemas
+* Adding functionality to all pages
+* Creating a custom domain
+* Updating home page to reflect the state of the project
 
 ## Team Members
 The people collaborating to create this project are:
