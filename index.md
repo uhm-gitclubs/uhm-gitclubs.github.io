@@ -21,7 +21,7 @@ Our goals for UHM GitClubs are:
 
 ## Deployment
 
-For a link to the deployment of UHM GitClubs, please click [here](http://143.198.50.76/#/)
+For a link to the deployment of UHM GitClubs, please click [here](http://uhm-gitclubs.club/#/).
 
 ## System
 The system should provide:
