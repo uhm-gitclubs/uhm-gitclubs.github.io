@@ -24,6 +24,8 @@ A link to the deployment: [uhm-gitclubs.club](https://uhm-gitclubs.club/#/)
 
 ## USER GUIDE
 
+Will be updating when deployment is updated.
+
 ## DEVELOPER GUIDE
 
 This section provides information to Meteor developers who want to use this code as a basis for their own development projects and tasks.
@@ -61,7 +63,7 @@ We are tracking our progress using Milestones:
 * Added publications and schemas
 * Added database for pages
 
-placeholder for M2 screenshot
+Placeholder for Milestone 2 screenshot.
 
 ### Milestone 3
 
