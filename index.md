@@ -9,7 +9,7 @@
 
 ## OVERVIEW
 
-There is not an easy way to see what clubs exist at UH Manoa, so UHM GitClubs is an application for UH Manoa students that provides a centralized directory for Registered Independent Organizations at UH Manoa. Anyone can visit the website to just browse the directory of clubs. The directory includes a description of the club, a link to their website, and contact information. Users are able to login and join a club from the directory.
+UHM GitClubs is an application for UH Manoa students that provides a centralized directory for Registered Independent Organizations at UH Manoa. Anyone can visit the website to just browse the directory of clubs. The directory includes a description of the club, a link to their website, and contact information. Users are able to login and join a club from the directory.
 
 Features:
 - Join a club, and have a list of clubs that you are in
@@ -19,6 +19,7 @@ Features:
 ## LINKS
 
 A link to the organization: [UHM GitClubs](https://github.com/uhm-gitclubs)
+
 A link to the deployment: [uhm-gitclubs.club](https://uhm-gitclubs.club/#/)
 
 ## USER GUIDE
@@ -52,11 +53,11 @@ We are tracking our progress using Milestones:
 * Created mockup pages
 * Deployed to Digital Ocean
 
-placeholder for M1 screenshot
+<img src="doc/logoheader.png" alt="GitClubs">
 
 ### Milestone 2
 
-* Implemented funcitonality various pages such as Edit/Create Club, Browse Clubs, Manage Clubs
+* Implemented functionality various pages such as Edit/Create Club, Browse Clubs, Manage Clubs
 * Added publications and schemas
 * Added database for pages
 
