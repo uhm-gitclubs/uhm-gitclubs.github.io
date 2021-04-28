@@ -4,6 +4,7 @@
 * [LINKS](#links)
 * [USER GUIDE](#user-guide)
 * [DEVELOPER GUIDE](#developer-guide)
+* [CONTINUOUS INTEGRATION](#continuous-integration)
 * [DEVELOPMENT HISTORY](#development-history)
 * [TEAM MEMBERS](#team-members)
 
@@ -89,6 +90,12 @@ $ meteor npm install
 $ meteor npm run start
 ```
 The application should appear at [http://localhost:3000](http://localhost:3000). You can find the default users and login credentials in ```/config/settings.development.json```. To modify the clubs go to ```app/private/data.json```.
+
+## CONTINUOUS INTEGRATION
+
+UHM GitClubs uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the default branch. You can see the results of all recent “workflows” at [https://github.com/uhm-gitclubs/uhm-gitclubs/actions](https://github.com/uhm-gitclubs/uhm-gitclubs/actions).
+
+![ci-badge](https://github.com/uhm-gitclubs/uhm-gitclubs/workflows/ci-uhm-gitclubs/badge.svg)
 
 ## DEVELOPMENT HISTORY
 We are tracking our progress using Milestones:
