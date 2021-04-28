@@ -24,7 +24,55 @@ A link to the deployment: [uhm-gitclubs.club](https://uhm-gitclubs.club/#/)
 
 ## USER GUIDE
 
-Will be updating when deployment is updated.
+This section provides a brief walkthrough of the UHM GitClubs user interface and its functionality.
+
+### Landing Page
+
+The first page seen when accessing the site. Provides a way to get to the directory of clubs and shows some statistics of the website. Users can sign in/up from here.
+
+<img src="doc/landing.gif" alt="landing-page">
+
+### Signin, signout, signup
+
+The user can login if they have an account, or they can register for one.
+
+<img src="doc/login.png" alt="login-page">
+
+<img src="doc/signup.png" alt="signup-page">
+
+### Browse Clubs
+
+This is the main directory of clubs. The user can see the name, image, description, and tags. They can also access the club website if available or add the club to their list of clubs. They can also search for a club by name or tag by using the search bar at the top of the page.
+
+<img src="doc/browse0.gif" alt="browse0-page">
+
+The user can also search for a club by name or tag by using the search bar at the top of the page.
+
+<img src="doc/browse1.gif" alt="browse1-page">
+
+<img src="doc/browse2.gif" alt="browse2-page">
+
+### My Clubs
+
+All users have access to a list of clubs that they have joined. Here they can email a club representative.
+
+<img src="doc/myclubs.gif" alt="myclubs-page">
+
+### Manage Clubs
+
+Site admins can edit and delete all clubs. Club moderators can manage a club that they are a moderator of.
+
+<img src="doc/manageallclubs.png" alt="manageallclubs-page">
+
+<img src="doc/manageclubs.png" alt="manageclubs-page">
+
+### Create & Edit Clubs
+
+Site admins can create a new club. Site admins and club moderators can edit a club by going to the Manage Clubs page and editing it.
+
+<img src="doc/createclub.png" alt="createclub-page">
+
+<img src="doc/editclub.gif" alt="editclub-page">
 
 ## DEVELOPER GUIDE
 
@@ -55,7 +103,7 @@ We are tracking our progress using Milestones:
 * Created mockup pages
 * Deployed to Digital Ocean
 
-<img src="doc/logoheader.png" alt="GitClubs">
+<img src="doc/milestone1.PNG" alt="milestone1">
 
 ### Milestone 2
 
@@ -63,7 +111,7 @@ We are tracking our progress using Milestones:
 * Added publications and schemas
 * Added database for pages
 
-Placeholder for Milestone 2 screenshot.
+<img src="doc/milestone2.PNG" alt="milestone2">
 
 ### Milestone 3
 
