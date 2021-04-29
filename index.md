@@ -31,7 +31,7 @@ This section provides a brief walkthrough of the UHM GitClubs user interface and
 
 The first page seen when accessing the site. Provides a way to get to the directory of clubs and shows some statistics of the website. Users can sign in/up from here.
 
-<img src="doc/landing.gif" alt="landing-page">
+<img src="doc/landingnew.gif" alt="landing-page">
 
 ### Signin, signout, signup
 
@@ -125,6 +125,14 @@ We are tracking our progress using Milestones:
 Issues to be addressed:
 * Implement testing for all pages
 * Get community feedback
+
+## COMMUNITY FEEDBACK
+
+* Person 1
+* Person 2
+* Person 3
+* Person 4
+* Person 5
 
 ## TEAM MEMBERS
 The people collaborating to create this project are:
