@@ -158,6 +158,15 @@ We are tracking our progress using Milestones:
 **Danny P.**
 - I think the website is super good!
 - The landing page has random clubs at the bottom. When you press "join" on a club, the list of clubs refreshes again and gets randomized. I think it would be better if there was a randomize button instead, so users can click the "join" on multiple clubs without the list randomizing by itself.
+
+**Person**
+- Filler
+- Filler
+
+**Person**
+- Filler
+- Filler
+
 **Person**
 - Filler
 - Filler
