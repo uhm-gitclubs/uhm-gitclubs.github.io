@@ -150,9 +150,11 @@ We are tracking our progress using Milestones:
 - When I hover over the number of members of each club, it turns blue which makes me think its a hyperlink.
 - Maybe add more pictures or graphics to make the site less plain. The landing page was nice, but it seems that Browse Clubs, My Clubs, and login/sign up pages don't have formatting.
 - It would be cool to see an option to filter results based on the tags.
+
 **Andrei E.**
 - I liked the website because it was obvious where we could find the information and what to click.
 - Maybe have a dropdown menu for the tags when filtering.
+
 **Danny P.**
 - I think the website is super good!
 - The landing page has random clubs at the bottom. When you press "join" on a club, the list of clubs refreshes again and gets randomized. I think it would be better if there was a randomize button instead, so users can click the "join" on multiple clubs without the list randomizing by itself.
