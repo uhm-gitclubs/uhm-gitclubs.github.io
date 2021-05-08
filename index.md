@@ -159,17 +159,17 @@ We are tracking our progress using Milestones:
 - I think the website is super good!
 - The landing page has random clubs at the bottom. When you press "join" on a club, the list of clubs refreshes again and gets randomized. I think it would be better if there was a randomize button instead, so users can click the "join" on multiple clubs without the list randomizing by itself.
 
-**Person**
-- Filler
-- Filler
+**Aiden G.**
+- I like the website's utility.
+- The website was clean, clear, and easy to use.
 
-**Person**
-- Filler
-- Filler
+**Antonio M.**
+- The site was very good for the most part. Maybe you could implement alumni clubs and even other opportunities for students that have graduated.
+- The website was formatted very well and could be useful for people who are searching for clubs.
 
-**Person**
-- Filler
-- Filler
+**Geordan A.**
+- I thought that the website was really smooth and the UI was very simple and easy to use. Very self explanatory. 
+- My experience was very easy. The website was smooth and very easy to use. Anyone can be able to use the website even on mobile.
 
 <br/>
 
