@@ -123,15 +123,11 @@ We are tracking our progress using Milestones:
 * Created mockup pages
 * Deployed to Digital Ocean
 
-<img src="doc/milestone1.PNG" alt="milestone1">
-
 ### Milestone 2
 
 * Implemented functionality various pages such as Edit/Create Club, Browse Clubs, Manage Clubs
 * Added publications and schemas
 * Added database for pages
-
-<img src="doc/milestone2.PNG" alt="milestone2">
 
 ### Milestone 3
 
