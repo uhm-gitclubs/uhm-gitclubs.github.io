@@ -6,6 +6,7 @@
 * [DEVELOPER GUIDE](#developer-guide)
 * [CONTINUOUS INTEGRATION](#continuous-integration)
 * [DEVELOPMENT HISTORY](#development-history)
+* [COMMUNITY FEEDBACK](#community-feedback)
 * [TEAM MEMBERS](#team-members)
 
 <br/>
